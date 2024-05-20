@@ -55,3 +55,9 @@ hr {
     text-overflow: ellipsis;
 
 } */
+
+.icons {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
